@@ -1,0 +1,13 @@
+{
+  // Shared markdown lint rules for the guide content.
+  "config": {
+    // Prose is wrapped by the editor, not by hard line breaks.
+    "MD013": false,
+    // Inline HTML is allowed for tables and callouts.
+    "MD033": false,
+    // Not every file starts with an H1 (PR/issue templates).
+    "MD041": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}
