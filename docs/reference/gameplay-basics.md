@@ -1,6 +1,9 @@
-# Getting started
+# Gameplay basics
 
 > **Verified against:** `<game version>` — `<YYYY-MM-DD>`
+
+Enough gameplay context that a new member is useful to the alliance. This
+is not a full strategy guide — it is the minimum a recruit needs.
 
 ## Summary
 
@@ -38,7 +41,7 @@ is the only one of the three that *generates* rather than consumes.
 ## Numbers
 
 Deliberately empty until verified in-game. See the sourcing rules in
-[Contributing](../CONTRIBUTING.md).
+[Contributing](../../CONTRIBUTING.md).
 
 ## Open questions
 

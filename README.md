@@ -1,34 +1,54 @@
 # lastasylum-guide
 
-Community strategy guides for **Last Asylum: Plague** — the plague-doctor
-sanctuary survival game by Cloudwalker Ltd.
+Onboarding cheat sheet for our **Last Asylum: Plague** alliance — a fast
+lookup for partnerships, rules, and governance.
 
-Content lives as plain Markdown under [`docs/`](docs/), so it can be read
-directly on GitHub today and rendered by a static site generator later
-without rewriting anything.
+Built for one job: a member should find the answer in **under 30 seconds**,
+without asking in chat.
 
-## Contents
+## New member? Start here
 
-| Section | What it covers |
+1. Read the [new member checklist](docs/onboarding/README.md) — first day,
+   first week.
+2. Skim the [alliance rules](docs/rules/README.md) — the short list of
+   things that get you removed.
+3. Check the [diplomacy table](docs/partnerships/README.md) before you
+   attack anyone.
+
+## Quick lookup
+
+| I need to know… | Go to |
 | --- | --- |
-| [Getting started](docs/getting-started.md) | First-session priorities and early-game order of operations |
-| [Heroes](docs/heroes/README.md) | Hero roles, squad composition, upgrade priority |
-| [Sanctuary](docs/sanctuary/README.md) | Building order, ward upgrades, herb cultivation |
-| [Combat](docs/combat/rat-swarm.md) | Rat Swarm defense and Rat King boss encounters |
-| [Economy](docs/economy/resources.md) | Resource management, crafting, spending discipline |
-| [Gift codes](docs/gift-codes.md) | Active codes and redemption steps |
+| Can I hit this player? | [Partnerships & diplomacy](docs/partnerships/README.md) |
+| What's expected of me weekly? | [Alliance rules](docs/rules/README.md) |
+| Who do I ask about X? | [Governance & ranks](docs/governance/README.md) |
+| How do I get promoted? | [Governance & ranks](docs/governance/README.md) |
+| What does "NAP" mean? | [Glossary](docs/reference/glossary.md) |
+| Any active gift codes? | [Gift codes](docs/reference/gift-codes.md) |
+| What should I build first? | [Gameplay basics](docs/reference/gameplay-basics.md) |
 
-## Status
+## Sections
 
-The structure below is complete; the guide pages are **stubs awaiting
-verified in-game data**. See [Contributing](CONTRIBUTING.md) for how pages
-are sourced and reviewed.
+| Section | Owner | What it covers |
+| --- | --- | --- |
+| [Onboarding](docs/onboarding/README.md) | `<rank/handle>` | New member checklist and first-week priorities |
+| [Rules](docs/rules/README.md) | `<rank/handle>` | Conduct, activity requirements, participation |
+| [Governance](docs/governance/README.md) | `<rank/handle>` | Ranks, responsibilities, promotion, disputes |
+| [Partnerships](docs/partnerships/README.md) | `<rank/handle>` | Allies, NAPs, hostiles, diplomacy contacts |
+| [Reference](docs/reference/glossary.md) | `<rank/handle>` | Glossary, gift codes, gameplay basics |
+
+## How this stays trustworthy
 
 > [!IMPORTANT]
-> Numbers in this guide (costs, timers, stats, tier placements) must be
-> confirmed against the live game build and stamped with the version they
-> were observed in. Do not copy figures from other guide sites — they go
-> stale silently after balance patches.
+> Rules, diplomacy, and governance pages are **policy**, not opinion. Every
+> such page names the leader who approved it and the date. An unapproved
+> edit to a policy page is not the policy — see
+> [Contributing](CONTRIBUTING.md).
+
+Diplomacy goes stale fastest and is the most expensive to get wrong: a
+member hitting a NAP'd alliance because this table was out of date is a
+diplomatic incident. Treat the [partnerships table](docs/partnerships/README.md)
+as the page most worth keeping current.
 
 ## Local checks
 
@@ -40,5 +60,5 @@ The same check runs in CI on every pull request.
 
 ## License
 
-Not yet chosen — see [issue tracker](../../issues). Until a license file is
-added, all rights are reserved by default.
+Not yet chosen. Until a license file is added, all rights are reserved by
+default.

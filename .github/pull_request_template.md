@@ -1,12 +1,18 @@
 ## Summary
 
-<!-- What does this change add or correct? -->
+<!-- What changed, and why? -->
 
-## Sourcing
+## Type of change
 
-- [ ] Numbers were observed in-game, not copied from another guide or wiki.
-- [ ] The `Verified against` line names the game build and date.
-- [ ] Rows I could not verify were left out rather than guessed.
+- [ ] Policy — rules, governance, or partnerships
+- [ ] Reference — glossary, gift codes, gameplay basics
+
+## If policy
+
+- [ ] The decision was made per the governance decision table.
+- [ ] Approved by: <!-- rank/handle --> on <!-- date -->
+- [ ] The `Approved by` line on the page was restamped.
+- [ ] Diplomacy change announced to members (or n/a).
 
 ## Checks
 

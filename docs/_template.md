@@ -1,30 +1,27 @@
 # <Page title>
 
-> **Verified against:** `<game version>` — `<YYYY-MM-DD>`
-> **Author:** `<github handle>`
+> **Approved by:** `<rank/handle>` — `<YYYY-MM-DD>`
 
-## Summary
+## The short answer
 
-One paragraph: what this page answers and who it is for.
+What a member in a hurry needs. If they stop reading here, they should
+still be correct.
 
-## Recommendation
+## Detail
 
-The short answer, before the reasoning. A reader in a hurry should be able
-to stop here.
+Reasoning, edge cases, and exceptions.
 
-## Details
+## Lookup table
 
-The reasoning, mechanics, and edge cases.
+| | |
+| --- | --- |
+| | |
 
-## Numbers
+Leave rows out rather than guessing. Policy that has not been approved is
+not policy — see [Contributing](../CONTRIBUTING.md).
 
-| Thing | Value | Notes |
-| --- | --- | --- |
-| | | |
+## Who to ask
 
-Leave rows out entirely rather than guessing. See the sourcing rules in
-[Contributing](../CONTRIBUTING.md).
-
-## Open questions
-
-- What still needs verification on this page.
+| Question | Ask |
+| --- | --- |
+| `<>` | `<>` |
